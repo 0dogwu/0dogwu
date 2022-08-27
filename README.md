@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0dogwu
+- 👀 I’m interested in Code and Cars
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on AI and webservice development
+- 📫 How to reach me Email: ikennaunamadu@gmail.com
